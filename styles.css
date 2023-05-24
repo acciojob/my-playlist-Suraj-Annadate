@@ -15,8 +15,8 @@ text-align:center;
 	text-align:center;
 }
 
-.player_two, .player_three{
-	
+.player_two, .player_three{	
 	background-color:white;
 	margin:0px 100px;
+	align-content:space-between;	
 }
